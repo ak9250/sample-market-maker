@@ -184,3 +184,7 @@ This module supports Python 3.5 and later.
 
 BitMEX has a Python [REST client](https://github.com/BitMEX/api-connectors/tree/master/official-http/python-swaggerpy)
 and [websocket client.](https://github.com/BitMEX/api-connectors/tree/master/official-ws/python)
+
+## discord chat for issues/enhancements and general discussion
+https://discord.gg/TnH78Z
+
