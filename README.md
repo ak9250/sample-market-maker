@@ -186,5 +186,5 @@ BitMEX has a Python [REST client](https://github.com/BitMEX/api-connectors/tree/
 and [websocket client.](https://github.com/BitMEX/api-connectors/tree/master/official-ws/python)
 
 ## discord chat for issues/enhancements and general discussion
-https://discord.gg/MfDf9W
+https://discord.gg/cwdyfEB
 
